@@ -1,6 +1,6 @@
-=======
-aws-cli
-=======
+============================
+aws-cli for beginner setup 
+============================
 
 .. image:: https://travis-ci.org/aws/aws-cli.svg?branch=develop
    :target: https://travis-ci.org/aws/aws-cli
